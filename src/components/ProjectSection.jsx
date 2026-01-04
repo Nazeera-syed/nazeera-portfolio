@@ -4,6 +4,15 @@ import React from 'react';import { ArrowRight, ExternalLink, Github, GithubIcon 
 const projects = [
   {
     id: 1,
+    title: "Ecommerce Store",
+    description: "Developed a clean, mobile-responsive ecommerce store with a smooth user journey.Includes product listing & detail pages, cart and checkout setup, secure payment integration, and SEO-ready structure — built to convert visitors into customers.",
+    image: "/projects/project0.png",
+    tags: ["WordPress+WooCommerce"],
+    demoUrl: "https://ecommerce1.nexgenweb.org/",
+
+  },
+  {
+    id: 2,
     title: "Blinkit Clone",
     description: "A grocery delivery web app inspired by Blinkit, built using the MERN stack with Stripe payment integration.",
     image: "/projects/project1.png",
@@ -12,7 +21,7 @@ const projects = [
     githubUrl: "https://github.com/Nazeera-syed/blinkeit",
   },
   {
-    id: 2,
+    id: 3,
     title: "E-Learning Platform",
     description:
       "An online learning platform with live classes, course management, and student dashboards built using React",
