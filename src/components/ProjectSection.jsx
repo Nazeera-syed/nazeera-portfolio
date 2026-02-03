@@ -12,13 +12,12 @@ const projects = [
 
   },
   {
-    id: 2,
-    title: "Blinkit Clone",
-    description: "A grocery delivery web app inspired by Blinkit, built using the MERN stack with Stripe payment integration.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Firebase","Node.js"],
-    demoUrl: "https://blinkeit.vercel.app",
-    githubUrl: "https://github.com/Nazeera-syed/blinkeit",
+  id: 2,
+    title: "Agency Website",
+    description: "Built a modern, mobile-friendly agency website with WordPress, implementing SEO-ready structure, fast loading pages, and scalable content management.",
+    image: "/projects/project4.png",
+    tags: ["WordPress"],
+    demoUrl: "https://nexgenweb.org",
   },
   {
     id: 3,
@@ -30,6 +29,16 @@ const projects = [
     demoUrl: "https://elearning-frontend1.vercel.app",
     githubUrl: "https://github.com/Nazeera-syed/elearning--frontend",
   },
+  {
+    id: 4,
+    title: "Blinkit Clone",
+    description: "A grocery delivery web app inspired by Blinkit, built using the MERN stack with Stripe payment integration.",
+    image: "/projects/project1.png",
+    tags: ["React", "TailwindCSS", "Firebase","Node.js"],
+    demoUrl: "https://blinkeit.vercel.app",
+    githubUrl: "https://github.com/Nazeera-syed/blinkeit",
+  }
+  
  
 ];
 
